@@ -3,7 +3,7 @@ NaraePreference, Easy tool to use SharedPreference.
 
 ## How to use?
 
-Just generate instatnce about NaraePreference
+Just generate instance about NaraePreference
 
 <b>NaraePreference np = new NaraePreference(this)</b>
 
