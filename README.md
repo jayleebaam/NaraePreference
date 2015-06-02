@@ -21,4 +21,4 @@ if class extends Fragement, use getActivity() instead of this.
 
 ## Licensed
 
-Licensed by (MIT License)[https://github.com/WindSekirun/NaraePreference/blob/master/License.md]
+Licensed by [MIT License](https://github.com/WindSekirun/NaraePreference/blob/master/License.md)
